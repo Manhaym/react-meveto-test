@@ -1,0 +1,28 @@
+html {
+  font-size: 16px;
+}
+
+input {
+  margin-left: 20px;
+  margin-right: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+label {
+  cursor: pointer;
+}
+
+div.course {
+  margin-bottom: 20px;
+}
+
+div.error {
+  white-space: pre-wrap;
+  font-size: 14px;
+  color: red;
+}
+
+textarea {
+  font-size: 14px;
+}
